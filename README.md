@@ -3,8 +3,8 @@ This is a Python script that merges all PDF files in a specified folder into a s
 
 
 ## Requirements
-Python 3.x
-PyPDF2 library
+1. Python 3.x
+2. PyPDF2 library
 
 
 ## Installation
