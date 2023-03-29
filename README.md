@@ -10,8 +10,9 @@ PyPDF2 library
 ## Installation
 Install Python 3.x from the official website: https://www.python.org/downloads/
 Install the PyPDF2 library by running the following command in your terminal or command prompt:
+'''bash
 pip install PyPDF2
-
+'''
 
 ## Usage
 1. Open a terminal or command prompt and navigate to the folder containing the merge_pdfs.py file.
