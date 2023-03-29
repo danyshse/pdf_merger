@@ -8,7 +8,7 @@ PyPDF2 library
 
 
 ## Installation
-Install Python 3.x from the official website: https://www.python.org/downloads/
+Install Python 3.x from the official website: https://www.python.org/downloads
 Install the PyPDF2 library by running the following command in your terminal or command prompt:
 ```bash
 pip install PyPDF2
