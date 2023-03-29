@@ -1,4 +1,4 @@
-PDF Merger
+# PDF Merger
 This is a Python script that merges all PDF files in a specified folder into a single PDF file using the PyPDF2 library.
 
 
